@@ -246,7 +246,6 @@ python start_bot.py
 
 ### Демонстрация работы бота
 
-![Профиль бота](img/github_img/bot_profile.png)
 ![Демонстрация работы бота](img/github_img/bot_performance.png)
 
 ## Заключение
